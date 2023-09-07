@@ -2,7 +2,7 @@
 
 I am Evgeny Platonov.
 
-A software engineer from Kiev, passionate about active sports and clean code, primarily focusing on Angular.
+A software engineer from Kiev, passionate about active sports and clean code, primarily focusing on Frontend.
 
 In my spare time I do open-sourcing (normally it is about 1-2 hours in the morning before the work).
 
